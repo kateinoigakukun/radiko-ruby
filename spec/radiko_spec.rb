@@ -11,7 +11,7 @@ describe Radiko do
   end
 
   it "record" do
-    Radiko::Client.new.record("QRR", 100, "/tmp/output.mp3")
+    Radiko::Client.new.record("QRR", 10, "/tmp/output.mp3")
   end
 
 end

@@ -4,6 +4,7 @@ require "radiko/client"
 require "radiko/download"
 require "radiko/file_manager"
 require "radiko/headers"
+require "radiko/helper"
 require "radiko/request"
 
 module Radiko

@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kateinoigakukun"]
   spec.email         = ["kateinoigakukun@gmail.com"]
 
-  spec.summary       = %q{radiko.jp downloader}
-  spec.description   = %q{radiko.jp downloader}
+  spec.summary       = %q{radiko.jp recorder}
+  spec.description   = %q{radiko.jp recorder}
   spec.homepage      = "https://github.com/kateinoigakukun"
   spec.license       = "MIT"
 
